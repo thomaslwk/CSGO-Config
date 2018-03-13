@@ -1,0 +1,3 @@
+# CSGO-Config
+
+CSGO Scripts
